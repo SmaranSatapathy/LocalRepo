@@ -1,0 +1,10 @@
+p.odd{
+    color: red;
+    font-family: cursive;
+    font-weight: 900;
+}
+
+p.even{
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+}
